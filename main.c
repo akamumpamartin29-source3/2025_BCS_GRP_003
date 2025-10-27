@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "HeaderFile.h"
-#include "Vending.c"
+#include "vending.h"
 
 int main() {
     // Initialize the items with struct array
