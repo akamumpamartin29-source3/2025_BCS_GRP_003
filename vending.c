@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "HeaderFile.h"
+#include "vending.h"
 
 int item_price(int item_number) {
     switch (item_number) {
